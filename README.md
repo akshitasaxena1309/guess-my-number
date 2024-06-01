@@ -1,4 +1,4 @@
-## Guess My Number Project
+# Guess My Number Project
 # Introduction
 Welcome to the Guess My Number Project! This fun and interactive game challenges players to guess a randomly generated number within a certain range. The project is designed to enhance your skills in HTML, CSS, JavaScript, and Bootstrap while providing an engaging user experience.
 

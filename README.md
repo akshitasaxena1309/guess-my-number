@@ -46,7 +46,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License.
 
 **Contact**
-For any inquiries or feedback, please contact us at akshitasaxena38@gmal.com.
+For any inquiries or feedback, please contact us at akshitasaxena38@gmail.com.
 
 Thank you for playing the Guess My Number Project! We hope you enjoy the game and improve your web development skills.
 
